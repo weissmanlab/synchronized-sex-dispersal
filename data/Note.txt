@@ -1,3 +1,0 @@
-All the other folders that contains data is stored at Archive.zip
-Recombination, Migration:
-StBu: Steady rec and Bursty mig

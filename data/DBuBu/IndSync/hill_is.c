@@ -471,7 +471,7 @@ int generation(parameters *params, char **population, double **W, unsigned int *
             else
             { // the individual is not a migrant
                 recombine = 0;
-                if (recombine)
+                if (recombine) // never execute
                 { //if it is a recombinant
                     //draw from parents from the same deme:
                     for (j = 0; j < 2; j++)
