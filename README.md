@@ -1,5 +1,4 @@
-# Structure Population
-This are codes for the project "Population structure can reduce clonal interference when sexual reproduction and dispersal are synchronized".
+This is the code for the project "Population structure can reduce clonal interference when sexual reproduction and dispersal are synchronized".
 
 The files are named as their evolutinonary structure.
 For example, SB means stready recombination and bursty migration.
